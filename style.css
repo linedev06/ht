@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    background-color: #000000;
+}
+.superior{
+    color: aliceblue;
+    text-align: center;
+}
+img{
+    height: 512px;
+    width: 800;
+    border: solid white;
+}
+div{
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+}
